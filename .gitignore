@@ -1,17 +1,3 @@
-*.asp
-*.cer
-*.csr
-*.css
-*.htm
-*.html
-*.js
-*.jsp
-*.php
-*.rss
-*.wasm
-*.wat
-*.xhtml
-
 # Logs
 logs
 *.log
@@ -146,6 +132,4 @@ psd
 thumb
 sketch
 
-
-
-# End of https://mrkandreev.name/snippets/gitignore-generator/#Web,Node,react,api,dom
+# End of https://mrkandreev.name/snippets/gitignore-generator/#Node,react
